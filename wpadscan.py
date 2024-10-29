@@ -4,7 +4,7 @@ import asyncio
 from typing import List, Tuple
 
 TLDFILE = 'tlds.txt'
-OUTFILE = 'resulsts.txt'
+OUTFILE = 'results.txt'
 
 
 def get_tlds_from_file(filename: str) -> List[str]:
